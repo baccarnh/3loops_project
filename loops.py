@@ -1,4 +1,4 @@
-# Création de la boucle WHILE 
+# Création de la boucle WHILE !
 
 Age = [2, 987, 78, 12]
 i = 0
